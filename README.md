@@ -1,17 +1,1 @@
-## My Project
-
-TODO: Fill this README out!
-
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
-
-## Security
-
-See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
-
-## License
-
-This project is licensed under the Apache-2.0 License.
-
+Renal clear cell carcinoma (RCC), the most common type of kidney cancer, lacks a well-defined collection of biomarkers for tracking disease progression. Although complementary diagnostic and prognostic RCC biomarkers may be beneficial for guiding therapeutic selection and informing clinical outcomes, patients currently have a poor prognosis due to limited early detection. Without a priori biomarker knowledge or histopathology information, we used machine learning (ML) techniques to investigate how mRNA, microRNA, and protein expression levels change as a patient progresses to different stages of RCC. The novel combination of big data with ML enables researchers to generate hypothesis-free models in a fraction of the time used in traditional clinical trials. Ranked genes that are most predictive of survival and disease progression can be used for target discovery and downstream analysis in precision medicine. We extracted clinical information for normal and RCC patients along with their related expression profiles in RCC tissues from three publicly-available datasets: 1. The Cancer Genome Atlas (TCGA), 2. Genotype-Tissue Expression (GTEx) project, 3. Clinical Proteomic Tumor Analysis Consortium (CPTAC). 
